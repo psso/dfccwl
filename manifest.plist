@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https:www.baidu.com/a.png</string>
+					<string>http://www.dfmc.com.cn/images/%E4%B8%9C%E9%A3%8E%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%BE%AE%E4%BF%A1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https:www.baidu.com/a.png</string>
+					<string>http://www.dfmc.com.cn/images/%E4%B8%9C%E9%A3%8E%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%BE%AE%E4%BF%A1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
